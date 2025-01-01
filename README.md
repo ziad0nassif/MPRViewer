@@ -5,7 +5,7 @@
 
 ###### image of program:
 <div>
-  <img src ="https://github.com/user-attachments/assets/f1968ef5-57a3-4ad7-a58d-702573e5ff21" >
+  <img src ="https://github.com/user-attachments/assets/79e00f80-d20a-44ea-b7e1-02f4884fa4e3" >
 </div>
 
 ## Features
@@ -32,3 +32,10 @@
 - A CUDA-compatible GPU is recommended for faster training.
 
 - Required libraries (listed in [requirement.txt](https://github.com/ziad0nassif/MPRViewer/blob/3eed246afeb3e14bb025fcab0a09f595ba1815a1/requirements.txt) )
+
+
+
+## Logging
+The program logs user interactions and critical steps, aiding in debugging and problem resolution. Log files are generated to provide insights into the development process.
+
+### Feel free to fork this repository, make improvements, and submit a pull request if you have any enhancements or bug fixes.
